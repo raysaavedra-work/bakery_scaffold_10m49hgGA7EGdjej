@@ -1,4 +1,5 @@
-[![Status](https://img.shields.io/badge/status-BUILDING%20COMMIT:%20760d46f37f8e4ec5d556710186a8bcdb5f94cb1c-yellow.svg)](https://github.com/raysaavedra-work/bakery_scaffold_10m49hgGA7EGdjej/commit/760d46f37f8e4ec5d556710186a8bcdb5f94cb1c)
+[![Status](https://img.shields.io/badge/status-NOT%20SUBMITTABLE%20COMMIT:%20760d46f37f8e4ec5d556710186a8bcdb5f94cb1c-critical.svg)](https://github.com/raysaavedra-work/bakery_scaffold_10m49hgGA7EGdjej/commit/760d46f37f8e4ec5d556710186a8bcdb5f94cb1c)
+
 
 
 If you think the status message is incorrect, click into it or check the build status of your latest commit. It may still be building.
